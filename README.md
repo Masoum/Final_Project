@@ -1,4 +1,4 @@
-# Video Game Data Exploratory Analysis
+# Exploratory Analysis of Video Game Data
 
 In this project, I explore video game data obtained from the RAWG API. The goal is to extract meaningful insights from the dataset and create informative visualizations that highlight various aspects of the gaming industry.
 
@@ -80,3 +80,4 @@ Most users rate games as "recommended" or "exceptional," indicating a generally 
 ![Average User Ratings](AveUsrRating.jpg)
 
 The distribution of average user ratings is roughly bell-shaped and centered around 3.5 out of 5. Most games receive moderate to good ratings, with the majority falling between 3.0 and 4.5. Extreme ratings (very low or perfect scores) are rare, emphasizing that truly outstanding games are uncommon.
+
