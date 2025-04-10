@@ -63,7 +63,7 @@ The chart above lists the top 10 games by average user rating (among those with 
 ---
 
 ### **Top Games by Popularity**  
-![Most Popular](MostPopular.jpg)
+![Most Popular](MostPopular.png)
 
 In contrast, the top 10 most popular games—based on the number of user ratings—highlight titles like *Grand Theft Auto V* and *The Witcher 3: Wild Hunt*. Other popular games, such as *The Elder Scrolls V: Skyrim*, *Portal 2*, and *Counter-Strike*, also exhibit high engagement. Many of these titles overlap with the highest-rated games, suggesting that broad appeal often goes hand-in-hand with high satisfaction.
 
