@@ -42,7 +42,7 @@ Game releases over time show a clear upward trend. In the early years (1970s–1
 ---
 
 ### **Average Rating by Genre**  
-![Average Rating by Genre](AveRatingByGenre.jpg)
+![Average Rating by Genre](AveRatingByGenere.jpg)
 
 The average user rating by genre reveals subtle differences: indie and RPG games, for example, score slightly higher on average compared to genres like racing or casual games. However, most genres have average ratings between 3.4 and 3.6, suggesting that overall player satisfaction is fairly consistent across different types of games.
 
@@ -70,7 +70,7 @@ In contrast, the top 10 most popular games—based on the number of user ratings
 ---
 
 ### **User Rating by Percentage**  
-![User Rating By Percentage](UsrRatingByPercent.jpg)
+![User Rating By Percentage](./UsrRatingByPercent.jpg)
 
 Most users rate games as "recommended" or "exceptional," indicating a generally positive community sentiment.
 
