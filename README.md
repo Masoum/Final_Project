@@ -28,7 +28,7 @@ After cleaning, the dataset comprises 24 features, including:
 ## Analysis
 
 ### **Top 10 Platforms (Games After 2014)**  
-![Top 10 platforms](TopPlatform.jpg)
+![Top 10 platforms](TopPlatform.png)
 
 The chart above displays the number of games available on each platform after 2014. PC dominates with the largest library, reflecting its open platform nature, while consoles such as PlayStation 4 and Xbox One follow closely. Notably, newer platforms and consoles tend to feature more games than older systems.
 
@@ -42,21 +42,21 @@ Game releases over time show a clear upward trend. In the early years (1970s–1
 ---
 
 ### **Average Rating by Genre**  
-![Average Rating by Genre](AveRatingByGenere.jpg)
+![Average Rating by Genre](AveRatingByGenere.png)
 
 The average user rating by genre reveals subtle differences: indie and RPG games, for example, score slightly higher on average compared to genres like racing or casual games. However, most genres have average ratings between 3.4 and 3.6, suggesting that overall player satisfaction is fairly consistent across different types of games.
 
 ---
 
 ### **User Rating vs. Metacritic Score**  
-![Rating vs Metacritic](RatingvsMetacritic.jpg)
+![Rating vs Metacritic](RatingvsMetacritic.png)
 
 This scatter plot demonstrates a strong positive correlation between user ratings and Metacritic scores. Generally, games with high critic scores also receive favorable ratings from players, although a few outliers exist where user sentiment diverges from critic reviews. Overall, the trend indicates that quality is recognized by both audiences and professionals.
 
 ---
 
 ### **Top Games by Rating**  
-![Top 10 Highest Rate](Top10HighestRate.jpg)
+![Top 10 Highest Rate](Top10HighestRate.png)
 
 The chart above lists the top 10 games by average user rating (among those with a significant number of ratings). Critically acclaimed titles such as *Red Dead Redemption 2*, *Half-Life 2*, *Portal 2*, and *God of War (2018)* lead the list with average ratings around 4.5–4.7 out of 5. This reflects a highly positive reception from the gaming community, aligning with these titles’ reputation as some of the best in their genres.
 
@@ -70,14 +70,14 @@ In contrast, the top 10 most popular games—based on the number of user ratings
 ---
 
 ### **User Rating by Percentage**  
-![User Rating By Percentage](./UsrRatingByPercent.jpg)
+![User Rating By Percentage](UsrRatingByPercent.png)
 
 Most users rate games as "recommended" or "exceptional," indicating a generally positive community sentiment.
 
 ---
 
 ### **Distribution of Average User Ratings**  
-![Average User Ratings](AveUsrRating.jpg)
+![Average User Ratings](AveUsrRating.png)
 
 The distribution of average user ratings is roughly bell-shaped and centered around 3.5 out of 5. Most games receive moderate to good ratings, with the majority falling between 3.0 and 4.5. Extreme ratings (very low or perfect scores) are rare, emphasizing that truly outstanding games are uncommon.
 
