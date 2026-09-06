@@ -6,7 +6,7 @@ import seaborn as sns
 import ast
 
 # ------------- Load dataset -------------
-df = pd.read_csv("rawg_games_data.csv")
+df = pd.read_csv("cleaned_rawg_games_data.csv")
 
 # Safely parse JSON-like columns
 def parse_column(row):
