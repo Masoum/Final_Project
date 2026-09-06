@@ -28,7 +28,7 @@ After cleaning, the dataset comprises 24 features, including:
 ## Analysis
 
 ### **Top 10 Platforms (Games After 2014)**  
-![Top 10 platforms](TopPlatform.png)
+![Top 10 platforms](TopPlatform.PNG)
 
 The chart above displays the number of games available on each platform after 2014. PC dominates with the largest library, reflecting its open platform nature, while consoles such as PlayStation 4 and Xbox One follow closely. Notably, newer platforms and consoles tend to feature more games than older systems.
 
