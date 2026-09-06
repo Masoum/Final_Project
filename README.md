@@ -35,7 +35,7 @@ The chart above displays the number of games available on each platform after 20
 ---
 
 ### **Game Releases Over the Years**  
-![Released Over Years](ReleaseByYear.jpg)
+![Released Over Years](ReleaseByYear.PNG)
 
 Game releases over time show a clear upward trend. In the early years (1970s–1980s), relatively few titles were released. However, starting in the 1990s—especially after the 2000s—the number of releases accelerated dramatically, illustrating the rapid growth and increasing accessibility of video games. Notably, 2016 stands out as a record year in the industry.
 
